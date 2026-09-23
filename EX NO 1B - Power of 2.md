@@ -28,8 +28,8 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 ```
 /*
 Program to implement Reverse a String
-Developed by: SANJAY K
-Register Number:  212223220094
+Developed by: ISTIN B
+Register Number:  212223040068
 */
 
 import java.util.Scanner;
